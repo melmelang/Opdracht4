@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using static Opdracht4melvin.Form1;
+using static Opdracht4melvin.ToonEnGeefData;
 
 namespace Opdracht4melvin
 {
